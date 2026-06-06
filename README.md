@@ -4,6 +4,7 @@
 
 <h1 align="center">Bono de Programación - Matemáticas Discretas I</h1>
 <p align="center"><b>Autor:</b> Aimer Esteban García Rojas</p> 
+<p align="center"><b>Docente:</b> Jhoan Sebastian Tenjo García</p> 
 
 ---
 
