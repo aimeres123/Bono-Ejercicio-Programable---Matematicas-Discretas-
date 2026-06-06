@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://lh4.googleusercontent.com/proxy/WNtyuTbDjnnITJFxg1dlI63L0jfIMRf0CIKg75VavFd3ameUuokpEiXIZvafO0UbA3rGKkhjDZ2HFtRWcGiPIn7Syd37PqnCrQuXFNHguRRPYm__safRJi9Q" alt="Logo Universidad Nacional de Colombia" width="400">
+</p>
+
+<h1 align="center">Bono de Programación - Matemáticas Discretas I</h1>
+<p align="center"><b>Autor:</b> Aimer Esteban García Rojas</p>
+
+---
 # Bono de Programación: Problemas Generales de Conteo
 **Universidad Nacional de Colombia - Sede Bogotá** **Asignatura:** Matemáticas Discretas I  
 **Docente:** Jhoan Sebastian Tenjo García  
